@@ -44,7 +44,7 @@ The dashboards explore terrorist activity through three key analytical questions
 This project was collaboratively developed by Master's in Business Analytics students at Nova SBE:
 - Afonso [@afonso-510](https://github.com/afonso-510)  
 - Philipp [@philippmue1996](https://github.com/philippmue1996)
-- [Name 3]  
+- Nour [NourMasmoudii](https://github.com/NourMasmoudii) 
 
 ---
 
